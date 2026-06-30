@@ -1,2 +1,3 @@
-# refcloud-data-onboarding
-Data onboarding for the GA4GH Reference Cloud
+# refcloud-cli
+
+Data onboarding CLI for the GA4GH Reference Cloud
