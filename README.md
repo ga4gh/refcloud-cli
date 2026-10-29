@@ -1,3 +1,5 @@
+⚠️ This repository has moved. The admin CLI now lives in [ga4gh/ga4gh-reference-cloud](https://github.com/ga4gh/ga4gh-reference-cloud) under apps/admin-cli/. This repo is archived and read-only.
+
 # Refcloud Data Onboarding
 Data onboarding CLI for the GA4GH Reference Cloud
 
